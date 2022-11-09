@@ -5,8 +5,11 @@
  - You can generate your own HTML summary report by running the following code in the terminal:
  
  ```
- jmeter -n -t dmoneyapi.jmx -l dmoneyapi.csv -e -o Reports
+ jmeter -n -t Dmoneyapi.jmx -l Dmoney.csv -e -o Reports
   ```
+  
+  ![JMeter command](https://user-images.githubusercontent.com/47362218/200831876-fa2b482e-dc53-4974-a418-bbc8809ef54b.PNG)
+
   
  ## Dmoney project structure in Jmeter
   
